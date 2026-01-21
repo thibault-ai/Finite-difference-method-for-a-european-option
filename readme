@@ -15,6 +15,7 @@ Le but est de comparer l'efficacité et la précision des méthodes numériques 
 ```text
 ├── notebooks/
 │   └── Option_europeenne.ipynb     # code principal et visualisations
+├── Option_europeenne.pdf        # fichier pdf de sortie
 ├── requirements.txt       # Dépendances (numpy, scipy, matplotlib)
 └── README.md
 ```
